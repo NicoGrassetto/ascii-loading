@@ -1,0 +1,19 @@
+{
+  "name": "ascii-loading",
+  "version": "1.0.0",
+  "description": "Create ascii loading bars ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoGrassetto/ascii-loading.git"
+  },
+  "author": "Nico Grassetto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicoGrassetto/ascii-loading/issues"
+  },
+  "homepage": "https://github.com/NicoGrassetto/ascii-loading#readme"
+}
